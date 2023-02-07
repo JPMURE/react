@@ -1,0 +1,10 @@
+.itemsContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(40rem, 23%));
+    place-content: center;
+    column-gap: 2rem;
+    padding: 2rem;
+}
+.main{
+ background-color: #f1f1f1
+}
